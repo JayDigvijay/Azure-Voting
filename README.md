@@ -5,7 +5,7 @@ One of the most basic threats to secure and reliable election results is Booth C
 Booth Capturing can be prevented if we ensure that: 
 1. The correct person casts the vote,i.e. identity of voter is confirmed.
 2. The person freely and discretely casts the vote, without anyone's pressure/influence.
-For our project, a combination of IoT and Azure Blockchain shall be utilized.
+For our project, a combination of IoT and <strong><em>Azure Blockchain</em></strong> shall be utilized.
 
 <h3>Set-Up:</h3>
 The <em>Polling Enclosure</em> is an enclosed space with separate  points of entry and exit, with the EVM inside and that only the voter is allowed to enter.
